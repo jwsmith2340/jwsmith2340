@@ -1,11 +1,16 @@
-Hello, I'm James Smith, a Software Engineer who enjoys digging into everything related to web applications from design to maintenance. I'm driven to build with a sense of sustainability and site stability, and I thrive on highly collaborative teams that focus on growing new skills and finding unique solutions to complex problems.
+Hello, I'm James Smith, a professional software engineer who enjoys digging into everything related to web applications from design to maintenance. I'm driven to build with a sense of sustainability and site stability, and I thrive on highly collaborative teams that focus on growing new skills and finding unique solutions to complex problems.
+
+I've been working as a software engineer using primarily Node and MSSQL since March of 2022. My experience thus far has consisted of working on a large CRM system writing routes, scripts, data inquiries, and building improvements to the system, all with a focus on writing clean, scalable, and performant code.
 
 Technical Skills:
-- React
 - JavaScript
 - Express
 - node.js
+- SQL
+- MSSQL
+- Postgres
 - jQuery
+- React
 - HTML
 - CSS
 - MongoDB
