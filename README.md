@@ -1,23 +1,7 @@
-Hello, I'm James Smith, a professional software engineer who enjoys digging into everything related to software development from design to maintenance. I'm driven to build with a sense of sustainability and site stability, and I thrive on highly collaborative teams that focus on growing new skills and finding solutions to complex problems.
+I am a software engineer currently working at Cigna on a data engineering team. My current project is building an Airflow instance deployed with GitHub, Ansible, and Jenkins onto Red Hat Enterprise Linux VMs, the purpose of which is to replace a legacy ETL system that feeds an InfluxDB time series database. 
 
-I've been working as a software engineer using primarily Node and MSSQL since March of 2022. My experience thus far has consisted of working on a large CRM system writing routes, scripts, data inquiries, and building improvements to the system, all with a focus on writing clean, scalable, and performant code.
+I write a lot of Python to interface with various systems, including Dynatrace, New Relic, Zabbix, and many others that provides data to feed our enterprise command center dashboards. I pride myself on writing performant, maintainable, and efficient code that delivers business value.
 
-Technical Skills:
-- JavaScript
-- Python
-- Express
-- node.js
-- SQL
-- MSSQL
-- Postgres
-- jQuery
-- React
-- HTML
-- CSS
-- MongoDB
-- Mongoose
+A few of the main technologies I work with are Python, Airflow, Redis, Openshift, Kubernetes, Docker, and Grafana, but I tend to get my hands on a lot of different tech. 
 
-<!---
-jwsmith2340/jwsmith2340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm interested in contributing to open source software and am currently writing a PR for the Apache Airflow open source project. If you're interested in learning more about what I do or are interested in discussing some similar technologies, feel free to send me a message. I'm always interested in growing my network.
